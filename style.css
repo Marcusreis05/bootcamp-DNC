@@ -299,6 +299,21 @@ footer .linha2 a:hover{
     .checkboxItens label{
         font-size: 15px;
     }
+    
+    /* footer */
 
+    footer .linha1{
+        flex-direction: column;
+    }
+
+    footer .endereco{
+        width: 95%;
+        margin-bottom: 30px;
+        font-size: 18px;
+    }
+
+    footer .linha2 a{
+        font-size: 15px;
+    }
 
 }
